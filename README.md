@@ -37,7 +37,7 @@ A aplicação possui um botão lateral para mudar entre **modo Claro** e **modo 
 ### 🎨 Tema Claro – Visão Geral  
 ![Visão Geral](./imgs/visao-geral.png)
 ### 🎨 Tema Escuro – Visão Geral  
-![Visão Geral](./imgs/visao-geral-dark.png-dark.png)
+![Visão Geral](./imgs/1.png)
 
 ### 🎨 Tema Claro – Grupos  
 ![Por Grupo](./imgs/grupos.png)
