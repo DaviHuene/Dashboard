@@ -1,0 +1,8 @@
+[theme]
+
+base="light"                      # Você pode mudar para "dark" se preferir o padrão escuro
+primaryColor="#6C63FF"           # Cor principal (botões, seletores)
+backgroundColor="#f5f5f5"        # Fundo do app
+secondaryBackgroundColor="#e0e0e0" # Fundos de cards, painéis
+textColor="#000000"              # Cor do texto
+font="sans serif"                # Fonte padrão
