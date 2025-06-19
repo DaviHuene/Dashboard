@@ -41,23 +41,23 @@ A aplicação possui um botão lateral para mudar entre **modo Claro** e **modo 
 
 ### 🎨 Tema Claro – Grupos  
 ![Por Grupo](./imgs/grupos.png)
-### 📁 Tema escuro – Unidades    
+### 📁 Tema escuro – Grupos    
 ![Por Grupo](./imgs/dowloaddark.png)
 
 ### 🏢 Tema escuro – Unidades  
 ![Unidades](./imgs/unidades.png)
-### 🎨 Tema Claro – Evolução por Data    
+### 🎨 Tema Claro – Unidades
 ![Unidades](./imgs/gruposdark.png)
 
 ### 🎨Tema Claro- Evolução por Data  
 ![Por Data](./imgs/data.png)
-### 📅 Tema escuro – Tabela com Filtros  
+### 📅 Tema escuro – Evolução por Data  
 ![Por Data](./imgs/datadark1.png)
 
 ### 🎨 Tema Claro -Tabela com Filtros  
 ![Tabela](./imgs/tabela.png)
 
-### 📋Tema escuro – Visão Geral  
+### 📋Tema escuro – Tabela com Filtros 
 ![Tabela](./imgs/tabeladark.png)
 
 
